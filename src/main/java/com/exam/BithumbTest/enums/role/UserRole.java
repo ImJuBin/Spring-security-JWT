@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 /**
- * 권한정의
+ * 권한정의(USER, ADMIN)
  */
 @AllArgsConstructor
 @Getter
